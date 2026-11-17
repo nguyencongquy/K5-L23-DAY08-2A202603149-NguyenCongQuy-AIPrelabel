@@ -1,0 +1,467 @@
+{
+  "delete": [
+    28,
+    31,
+    32,
+    33,
+    34,
+    59,
+    61,
+    62,
+    93,
+    122,
+    126,
+    133,
+    138,
+    140,
+    144,
+    146,
+    153,
+    171,
+    172,
+    173,
+    184,
+    185,
+    186,
+    206,
+    240,
+    245,
+    247,
+    252,
+    256,
+    310,
+    322,
+    329,
+    351,
+    359,
+    364,
+    391,
+    397,
+    470,
+    500,
+    543,
+    574
+  ],
+  "edit": {
+    "27": [
+      "three_wheeler",
+      [
+        244,
+        87,
+        775,
+        626
+      ]
+    ],
+    "90": [
+      "car",
+      null
+    ],
+    "89": [
+      "motorbike",
+      [
+        260,
+        618,
+        564,
+        1024
+      ]
+    ],
+    "123": [
+      "three_wheeler",
+      [
+        125,
+        327,
+        485,
+        624
+      ]
+    ],
+    "124": [
+      "three_wheeler",
+      [
+        482,
+        342,
+        895,
+        569
+      ]
+    ],
+    "139": [
+      "motorbike",
+      [
+        177,
+        430,
+        451,
+        838
+      ]
+    ],
+    "145": [
+      "three_wheeler",
+      [
+        21,
+        196,
+        387,
+        878
+      ]
+    ],
+    "147": [
+      "three_wheeler",
+      [
+        350,
+        246,
+        531,
+        772
+      ]
+    ],
+    "148": [
+      "three_wheeler",
+      [
+        481,
+        305,
+        577,
+        675
+      ]
+    ],
+    "170": [
+      "three_wheeler",
+      [
+        48,
+        22,
+        979,
+        682
+      ]
+    ],
+    "180": [
+      "car",
+      null
+    ],
+    "178": [
+      "motorbike",
+      [
+        913,
+        230,
+        981,
+        448
+      ]
+    ],
+    "205": [
+      "three_wheeler",
+      [
+        480,
+        324,
+        889,
+        632
+      ]
+    ],
+    "210": [
+      "bus",
+      null
+    ],
+    "211": [
+      "car",
+      null
+    ],
+    "288": [
+      "person",
+      [
+        201,
+        333,
+        267,
+        479
+      ]
+    ],
+    "328": [
+      "three_wheeler",
+      [
+        100,
+        291,
+        559,
+        679
+      ]
+    ],
+    "332": [
+      "three_wheeler",
+      [
+        473,
+        165,
+        740,
+        495
+      ]
+    ],
+    "337": [
+      "person",
+      [
+        620,
+        246,
+        694,
+        338
+      ]
+    ],
+    "361": [
+      "bus",
+      null
+    ],
+    "374": [
+      "car",
+      null
+    ],
+    "376": [
+      "bus",
+      null
+    ],
+    "394": [
+      "person",
+      [
+        710,
+        154,
+        801,
+        367
+      ]
+    ],
+    "402": [
+      "motorbike",
+      [
+        265,
+        373,
+        485,
+        482
+      ]
+    ],
+    "416": [
+      "motorbike",
+      null
+    ],
+    "486": [
+      "motorbike",
+      [
+        614,
+        523,
+        827,
+        768
+      ]
+    ],
+    "499": [
+      "bicycle",
+      [
+        150,
+        337,
+        824,
+        682
+      ]
+    ],
+    "542": [
+      "three_wheeler",
+      [
+        747,
+        421,
+        819,
+        539
+      ]
+    ]
+  },
+  "add": {
+    "003": [
+      [
+        "motorbike",
+        [
+          0,
+          249,
+          23,
+          336
+        ]
+      ],
+      [
+        "motorbike",
+        [
+          969,
+          255,
+          1024,
+          430
+        ]
+      ]
+    ],
+    "004": [
+      [
+        "three_wheeler",
+        [
+          56,
+          254,
+          173,
+          407
+        ]
+      ]
+    ],
+    "005": [
+      [
+        "motorbike",
+        [
+          475,
+          446,
+          686,
+          734
+        ]
+      ]
+    ],
+    "006": [
+      [
+        "motorbike",
+        [
+          102,
+          406,
+          242,
+          580
+        ]
+      ]
+    ],
+    "008": [
+      [
+        "person",
+        [
+          238,
+          175,
+          322,
+          310
+        ]
+      ]
+    ],
+    "014": [
+      [
+        "motorbike",
+        [
+          439,
+          384,
+          533,
+          541
+        ]
+      ]
+    ],
+    "017": [
+      [
+        "three_wheeler",
+        [
+          75,
+          329,
+          177,
+          491
+        ]
+      ]
+    ],
+    "018": [
+      [
+        "ignore_region",
+        [
+          467,
+          290,
+          530,
+          360
+        ]
+      ]
+    ],
+    "024": [
+      [
+        "ignore_region",
+        [
+          0,
+          626,
+          950,
+          682
+        ]
+      ]
+    ],
+    "025": [
+      [
+        "motorbike",
+        [
+          91,
+          248,
+          240,
+          468
+        ]
+      ]
+    ],
+    "026": [
+      [
+        "motorbike",
+        [
+          198,
+          426,
+          395,
+          568
+        ]
+      ],
+      [
+        "ignore_region",
+        [
+          580,
+          313,
+          741,
+          361
+        ]
+      ]
+    ],
+    "029": [
+      [
+        "motorbike",
+        [
+          906,
+          551,
+          1024,
+          765
+        ]
+      ],
+      [
+        "motorbike",
+        [
+          54,
+          469,
+          145,
+          588
+        ]
+      ],
+      [
+        "motorbike",
+        [
+          265,
+          482,
+          392,
+          651
+        ]
+      ]
+    ]
+  },
+  "can_review_ids": [
+    29,
+    123,
+    124,
+    125,
+    139,
+    180,
+    313,
+    330,
+    499,
+    517
+  ],
+  "image_notes": {
+    "003": "Vùng mái và thùng cùng thuộc một ba gác; bỏ box tách mái/thùng trùng; phân biệt xe máy ở hai mép.",
+    "004": "Xóa car trên tán cây, bỏ box lặp ở tuk-tuk xanh; bổ sung tuk-tuk xanh xa phía trái.",
+    "005": "Tách người/xe gần; sửa truck sang car ở van xa; loại box ba bánh trên nền không có ba bánh.",
+    "006": "Rà xe máy đỗ, người bán hàng và bicycle; loại một person trùng ở xa.",
+    "008": "Ba xe chở trái cây: bỏ box gộp trùng; thêm người đứng sau chuối; giữ câu hỏi phạm vi thùng/hàng để calibration.",
+    "009": "Xe chở chuối có hai bánh là motorbike; bỏ nhãn ba bánh trên mái bạt và box motorbike trên tường.",
+    "010": "Xích lô gồm cả mái và khung; không gán thêm bicycle cho bánh của cùng xích lô.",
+    "013": "Gộp mái/khung thành đúng một three_wheeler; xe van xa không tự thành truck.",
+    "014": "Bỏ ba bánh giả trên đòn gánh/thùng hàng; thêm xe máy của người chạy ngược chiều.",
+    "017": "Bỏ box gộp hai tuk-tuk; bổ sung tuk-tuk nhỏ bên trái.",
+    "018": "Đổi ba bánh sai thành bus/car; bỏ các box nhỏ dưới 20 px và person trùng; gom cụm xa rất nhỏ.",
+    "021": "Tách rider khỏi car đỏ; bỏ car trùng phía phải.",
+    "022": "Bỏ person trên thân cây; rà người bán dưới mái và xe chuyển động mờ.",
+    "023": "Sửa khung tuk-tuk bao cả cỏ/cột; bỏ box gộp trùng.",
+    "024": "Tách minibus khỏi truck; không gán car cho vệt sáng; cụm chuyển động không tách cá thể dùng ignore_region.",
+    "025": "Gộp các person trùng đầu người; thêm xe máy bị bỏ sót bên trái.",
+    "026": "Tách xe đỗ gần nhìn rõ; chỉ gom cụm rất xa không phân biệt được; không bỏ cả bãi xe vào ignore.",
+    "027": "Xe đen phía trước là motorbike, không phải bicycle.",
+    "028": "Xóa truck trên tán cây; giữ riêng người/xe dù box chồng nhau.",
+    "029": "Rà silhouettes xe đêm; tách khung motorbike gộp, bổ sung xe bị sót; không suy vật từ vệt sáng.",
+    "031": "Person trên mũ cam là false positive; box bicycle phải gồm cả bánh sau/khung/giỏ cố định, không chỉ bánh trước.",
+    "033": "Giữ xe con và người/xe máy mép ảnh; rà vật nhỏ xa theo ngưỡng 20 px.",
+    "034": "Tách rider/xe máy; giữ ca xe chở hàng xa cần quyết định class, không ép bằng confidence.",
+    "035": "Gộp hai box của cùng xích lô; bỏ person trùng mép trái; người trên xe vẫn riêng."
+  }
+}

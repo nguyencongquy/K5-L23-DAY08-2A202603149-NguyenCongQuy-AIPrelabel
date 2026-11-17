@@ -1,0 +1,11 @@
+{
+ "gold_sha256": "dab8dd291d2c6213fd43171307f5e7f06c484171c94a5899c2b762a4431ee92f",
+ "batch_reviewed_sha256": "a4258e26665a9abf5f5ef6c6e49dcb4819674439e385f57489bf283e1910250f",
+ "prelabel_artifacts_sha256": {
+  "pre_traps.coco.json": "e09750bf1710ff062c562f1991b7118b6a804e1ccbe49915ef0f5a7def272619",
+  "pre_traps_import.coco.json": "f5a4bdc7e61fde017504baf905e2fddb81e71bfbb40140001debbf78e47223cc",
+  "traps_key.json": "4fa658a1ab20b08d06a2be6f7b79a937b8581a7b7fbf4c70abaafd3cc64ea69d"
+ },
+ "key_opened_before_export": false,
+ "reviewer_type": "assisted workflow; not an independent human review"
+}

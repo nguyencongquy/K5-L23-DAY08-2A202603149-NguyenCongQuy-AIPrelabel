@@ -1,0 +1,25 @@
+image,bare_scan,missing_checked,extras_checked,class_checked,geometry_checked,note
+img_003.jpg,yes,yes,yes,yes,yes,Vùng mái và thùng cùng thuộc một ba gác; bỏ box tách mái/thùng trùng; phân biệt xe máy ở hai mép. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_004.jpg,yes,yes,yes,yes,yes,"Xóa car trên tán cây, bỏ box lặp ở tuk-tuk xanh; bổ sung tuk-tuk xanh xa phía trái. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận."
+img_005.jpg,yes,yes,yes,yes,yes,Tách người/xe gần; sửa truck sang car ở van xa; loại box ba bánh trên nền không có ba bánh. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_006.jpg,yes,yes,yes,yes,yes,"Rà xe máy đỗ, người bán hàng và bicycle; loại một person trùng ở xa. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận."
+img_008.jpg,yes,yes,yes,yes,yes,Ba xe chở trái cây: bỏ box gộp trùng; thêm người đứng sau chuối; giữ câu hỏi phạm vi thùng/hàng để calibration. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_009.jpg,yes,yes,yes,yes,yes,Xe chở chuối có hai bánh là motorbike; bỏ nhãn ba bánh trên mái bạt và box motorbike trên tường. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_010.jpg,yes,yes,yes,yes,yes,Xích lô gồm cả mái và khung; không gán thêm bicycle cho bánh của cùng xích lô. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_013.jpg,yes,yes,yes,yes,yes,Gộp mái/khung thành đúng một three_wheeler; xe van xa không tự thành truck. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_014.jpg,yes,yes,yes,yes,yes,Bỏ ba bánh giả trên đòn gánh/thùng hàng; thêm xe máy của người chạy ngược chiều. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_017.jpg,yes,yes,yes,yes,yes,Bỏ box gộp hai tuk-tuk; bổ sung tuk-tuk nhỏ bên trái. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_018.jpg,yes,yes,yes,yes,yes,Đổi ba bánh sai thành bus/car; bỏ các box nhỏ dưới 20 px và person trùng; gom cụm xa rất nhỏ. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_021.jpg,yes,yes,yes,yes,yes,Tách rider khỏi car đỏ; bỏ car trùng phía phải. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_022.jpg,yes,yes,yes,yes,yes,Bỏ person trên thân cây; rà người bán dưới mái và xe chuyển động mờ. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_023.jpg,yes,yes,yes,yes,yes,Sửa khung tuk-tuk bao cả cỏ/cột; bỏ box gộp trùng. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_024.jpg,yes,yes,yes,yes,yes,Tách minibus khỏi truck; không gán car cho vệt sáng; cụm chuyển động không tách cá thể dùng ignore_region. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_025.jpg,yes,yes,yes,yes,yes,Gộp các person trùng đầu người; thêm xe máy bị bỏ sót bên trái. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_026.jpg,yes,yes,yes,yes,yes,Tách xe đỗ gần nhìn rõ; chỉ gom cụm rất xa không phân biệt được; không bỏ cả bãi xe vào ignore. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_027.jpg,yes,yes,yes,yes,yes,"Xe đen phía trước là motorbike, không phải bicycle. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận."
+img_028.jpg,yes,yes,yes,yes,yes,Xóa truck trên tán cây; giữ riêng người/xe dù box chồng nhau. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_029.jpg,yes,yes,yes,yes,yes,"Rà silhouettes xe đêm; tách khung motorbike gộp, bổ sung xe bị sót; không suy vật từ vệt sáng. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận."
+img_031.jpg,yes,yes,yes,yes,yes,"Person trên mũ cam là false positive; box bicycle phải gồm cả bánh sau/khung/giỏ cố định, không chỉ bánh trước. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận."
+img_033.jpg,yes,yes,yes,yes,yes,Giữ xe con và người/xe máy mép ảnh; rà vật nhỏ xa theo ngưỡng 20 px. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
+img_034.jpg,yes,yes,yes,yes,yes,"Tách rider/xe máy; giữ ca xe chở hàng xa cần quyết định class, không ép bằng confidence. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận."
+img_035.jpg,yes,yes,yes,yes,yes,Gộp hai box của cùng xích lô; bỏ person trùng mép trái; người trên xe vẫn riêng. Kiểm bằng quy trình hỗ trợ; chờ người nộp xác nhận.
