@@ -1,0 +1,16 @@
+[
+  {
+    "job_id": 17,
+    "images": 4,
+    "annotations": 65,
+    "geometry_and_classes_match": true,
+    "source_file": "submission/labels/gold_manual.json"
+  },
+  {
+    "job_id": 20,
+    "images": 24,
+    "annotations": 493,
+    "geometry_and_classes_match": true,
+    "source_file": "submission/release/final_det.coco.json"
+  }
+]

@@ -4,6 +4,17 @@
 
 # Day 08 Lab — 2A202603149 - Nguyễn Công Quý
 
+## Kết quả bài nộp hiện tại
+
+**HOLD — cần người nộp kiểm và xác nhận.** Reference có hỗ trợ, không phải Gold gán tay độc lập theo RULES.md. Điểm bẫy mù 5/12 dưới ngưỡng 10/12; bản sửa sau khi xem đáp án được giữ riêng. Đây là bản bàn giao thực nghiệm, chưa phải nhãn được phê duyệt Release.
+
+- [Báo cáo đủ 8 mục](submission/REPORT.md) · [Thông tin và số đo](STUDENT.md).
+- [24 ảnh sau sửa để đối chiếu](submission/evidence/gallery/README.md) · [Nhãn candidate COCO](submission/release/final_det.coco.json).
+- [Log sáu lượt model](submission/model_log.csv) · [Sweep ngưỡng](submission/qc/threshold_sweep.md) · [Ba thử nghiệm mask SAM](submission/masks/PROMPTS.csv).
+- [Calibration v1.1](submission/guidelines/guideline_v1.1_calibrated.md) · [QC hiện tại](submission/qc/qc_report_auto.md) · [Bằng chứng QC đầu](submission/evidence/qc_round1/qc_report_auto.md).
+- [Kiến thức YOLO26 / YOLOE / SAM](STUDY_NOTES.md). Các phần bên dưới giữ hướng dẫn gốc của đề, không phải tuyên bố mọi bước đã đạt.
+
+
 <p align="center">
   <img alt="cá nhân" src="https://img.shields.io/badge/lab-cá%20nhân-0b1f3a">
   <img alt="thời lượng" src="https://img.shields.io/badge/thời%20lượng-4%20giờ-ff8a3d">

@@ -1,0 +1,4 @@
+image,model,positive_clicks,negative_clicks,box,mask_pixels,polygons,output,observation
+img_013.jpg,SAM 2.1 b,560:480|320:80,753:320|439:241,74:23:971:682,287169,1,tuktuk_img013.jpg,"Phần lớn thân/mái xe được chọn; vẫn dính một phần áo người lái và nền cạnh bánh, cần sửa trước dùng làm mask chuẩn."
+img_003.jpg,SAM 2.1 b,491:473|597:451,338:317|411:294,278:137:748:634,88974,2,cargo_img003.jpg,"Có thân/thùng/mái; còn dính người nhỏ ngồi trước, nét mái và nan bánh chưa sạch dù đã click âm."
+img_009.jpg,SAM 2.1 b,269:716|304:611,488:560|418:457,174:428:454:839,28921,2,motorbike_img009.jpg,Đã bỏ nhiều chuối bên phải; còn túi hàng và mất phần tay lái vì click âm gần gương.

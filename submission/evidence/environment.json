@@ -1,0 +1,28 @@
+{
+  "python": "3.11.15 (main, Mar  3 2026, 00:52:57) [Clang 21.0.0 (clang-2100.0.123.102)]",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "device": "mps",
+  "packages": {
+    "ultralytics": "8.4.215",
+    "torch": "2.15.0",
+    "torchvision": "0.29.2",
+    "numpy": "2.4.6",
+    "opencv-python": "5.0.0.93",
+    "Pillow": "13.0.0",
+    "clip": "1.0"
+  },
+  "weights_sha256": {
+    "yolo26m.pt": "401cea9ab23ad19246ff7744859816bc599f350e93c9dd30367b6f0a0745d0b7",
+    "yoloe-26s-seg.pt": "48f24206bc8680d60cbbfa296b0140da849669b9515058b72f5a945142df0654",
+    "sam2.1_b.pt": "f1a9cf2dd69d84bb463b5ad98246d03e2d47a130a9295db0ec967e6cd95e2e47"
+  },
+  "timers": {
+    "gold_started_epoch": 1794924743.2540421,
+    "gold_finished_epoch": 1794924840.751816,
+    "gold_sha256": "dab8dd291d2c6213fd43171307f5e7f06c484171c94a5899c2b762a4431ee92f",
+    "batch_started_epoch": 1794925191.4262888,
+    "batch_finished_epoch": 1794925719.769182,
+    "batch_reviewed_sha256": "a4258e26665a9abf5f5ef6c6e49dcb4819674439e385f57489bf283e1910250f"
+  },
+  "provenance": "Assisted reference and assisted review; no independent human annotation timing or final sign-off."
+}

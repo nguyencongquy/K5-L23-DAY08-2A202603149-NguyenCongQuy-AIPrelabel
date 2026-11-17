@@ -1,0 +1,25 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_004.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_005.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_006.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_008.jpg,105,sai_vi_tri_kich_thuoc,assisted-review,Person bổ sung lệch sang chuối; chuyển về người áo vàng.
+img_009.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_010.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_013.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_014.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_017.jpg,,bo_sot,assisted-review,Sót người mặc váy hồng phía trái; phát hiện khi phân tích bẫy sau export.
+img_018.jpg,169,sai_lop,assisted-review,Xe nhỏ bị gán bicycle; xác nhận lại motorbike sau phân tích bẫy.
+img_021.jpg,226,sai_vi_tri_kich_thuoc,assisted-review,Motorbike phía phải còn box lệch/lỏng; sửa theo silhouette.
+img_022.jpg,244,sai_lop,assisted-review,Person nhỏ bị gán bicycle; sửa sau phân tích bẫy.
+img_023.jpg,,bo_sot,assisted-review,Sót người mũ bảo hiểm ở mép trên phải.
+img_024.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_025.jpg,308,sai_vi_tri_kich_thuoc,assisted-review,Khung motorbike đỗ phía phải lệch trên và sang phải.
+img_026.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_027.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_028.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_029.jpg,413,sai_vi_tri_kich_thuoc,assisted-review,Khung motorbike trung tâm bị lệch xuống; chỉnh phần nhìn thấy.
+img_031.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_033.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_034.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.
+img_035.jpg,,khong,assisted-review,Không phát hiện thêm lỗi rõ trong lượt đối chiếu này; không phải chứng nhận độc lập của người học.

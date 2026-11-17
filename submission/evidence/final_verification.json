@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "frozen_pre_traps.coco.json": true,
+    "frozen_pre_traps_import.coco.json": true,
+    "frozen_traps_key.json": true,
+    "first_batch_frozen": true,
+    "gold_frozen": true,
+    "qc_rules_unchanged": true,
+    "images_split_attribution_unchanged": true,
+    "submission/labels/gold_manual.json_images": true,
+    "submission/labels/gold_manual.json_unique_ids": true,
+    "submission/labels/batch_reviewed.json_images": true,
+    "submission/labels/batch_reviewed.json_unique_ids": true,
+    "submission/release/final_det.coco.json_images": true,
+    "submission/release/final_det.coco.json_unique_ids": true,
+    "qc_all_24_reviewed": true,
+    "report_8_sections": true,
+    "no_provider_branding_in_new_report": true,
+    "trap_metric_preserved": true,
+    "qc_handoff_hold": true
+  },
+  "all_technical_checks_pass": true,
+  "quality_decision": "HOLD",
+  "human_signoff": false,
+  "gold_independent": false
+}
