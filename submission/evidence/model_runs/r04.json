@@ -1,0 +1,18 @@
+{
+ "run_id": "r04",
+ "part": "",
+ "model": "yolo26-m+sam(sam2.1_b.pt)",
+ "params": "--model yolo26 --size m --classes person,motorbike,car --images img_004.jpg img_013.jpg --conf 0.3 --segmenter sam --sam sam2.1_b.pt --out work/prelabel/t_sam",
+ "split": "custom",
+ "n_boxes": 16,
+ "sec_per_img": 3.22,
+ "what_went_right": "",
+ "what_went_wrong": "",
+ "decision": "",
+ "out": "work/prelabel/t_sam",
+ "device": "mps",
+ "n_images": 2,
+ "n_masks": 16,
+ "dropped": "umbrellax3;handbagx1;bottlex8;chairx1",
+ "note": ""
+}

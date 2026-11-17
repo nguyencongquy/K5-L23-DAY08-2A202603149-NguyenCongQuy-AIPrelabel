@@ -1,0 +1,18 @@
+{
+ "run_id": "r03",
+ "part": "",
+ "model": "yoloe-s",
+ "params": "--model yoloe --classes three_wheeler --split pilot --conf 0.25 --out work/prelabel/t_yoloe",
+ "split": "pilot",
+ "n_boxes": 8,
+ "sec_per_img": 0.3,
+ "what_went_right": "",
+ "what_went_wrong": "",
+ "decision": "",
+ "out": "work/prelabel/t_yoloe",
+ "device": "mps",
+ "n_images": 8,
+ "n_masks": 0,
+ "dropped": "",
+ "note": ""
+}

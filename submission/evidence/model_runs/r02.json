@@ -1,0 +1,18 @@
+{
+ "run_id": "r02",
+ "part": "",
+ "model": "yolo26-m",
+ "params": "--model yolo26 --size m --split pilot --conf 0.5 --out work/prelabel/t_y26_c05",
+ "split": "pilot",
+ "n_boxes": 139,
+ "sec_per_img": 0.26,
+ "what_went_right": "",
+ "what_went_wrong": "",
+ "decision": "",
+ "out": "work/prelabel/t_y26_c05",
+ "device": "mps",
+ "n_images": 8,
+ "n_masks": 0,
+ "dropped": "umbrellax5;handbagx2;traffic lightx1;backpackx1",
+ "note": ""
+}

@@ -1,0 +1,18 @@
+{
+ "run_id": "r05",
+ "part": "",
+ "model": "yolo26-m",
+ "params": "--model yolo26 --size m --split all --conf 0.05 --out work/prelabel/y26_all --no-viz",
+ "split": "all",
+ "n_boxes": 1669,
+ "sec_per_img": 0.11,
+ "what_went_right": "",
+ "what_went_wrong": "",
+ "decision": "",
+ "out": "work/prelabel/y26_all",
+ "device": "mps",
+ "n_images": 36,
+ "n_masks": 0,
+ "dropped": "chairx29;umbrellax57;handbagx28;traffic lightx10;bowlx4;bananax104;dining tablex10;benchx2;dogx2;bottlex26;cupx6;bookx1;stop signx2;backpackx16;potted plantx22;applex18;orangex16;cell phonex2",
+ "note": ""
+}
