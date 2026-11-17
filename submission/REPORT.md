@@ -73,5 +73,5 @@ Nếu Rework / Hold, việc cần làm tiếp: <<>>
 - Gold có bị nhiễm không (bạn có nhìn pre-label hay hỏi AI trước khi gán xong)? <<không / có, như sau: ...>>
 - Máy / GPU / CVAT dùng; vướng mắc cài đặt: <<>>
 - Dùng cache `data/cache/` thay vì tự chạy? <<không / có, vì ...>>
-- Lỗi / bug script đã gặp (nếu có): <<>>
+- Lỗi script: `check_submission.py` chỉ nhận MSHV toàn số, nên báo sai tiêu đề README với mã `2A202603149`. Đã mở rộng phần nhận MSHV sang chữ/số; giữ nguyên kiểm tra tiêu đề, đối chiếu mã tạo bẫy và mọi ngưỡng QC. Kiểm lại với mã số thuần, mã chữ/số và tiêu đề thiếu tên.
 - Một điều bạn làm khác lần sau: <<>>
