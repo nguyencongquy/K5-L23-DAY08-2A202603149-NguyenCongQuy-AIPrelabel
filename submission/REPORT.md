@@ -69,8 +69,8 @@ Nếu Rework / Hold, việc cần làm tiếp: <<>>
 
 ## 8. Ghi chú cá nhân
 
-- **Dùng AI để làm bài** (công cụ nào, việc gì, kiểm tra thế nào; "không dùng" nếu không): <<>>
-- Gold có bị nhiễm không (bạn có nhìn pre-label hay hỏi AI trước khi gán xong)? <<không / có, như sau: ...>>
+- **Phương pháp hỗ trợ:** trợ lý xử lý ảnh và script để tạo nhãn, kiểm định và tổng hợp báo cáo. Đã đối chiếu ảnh gốc, kiểm định schema và đọc lại dữ liệu CVAT; người nộp cần xác nhận kết luận trước khi nộp.
+- **Gold không độc lập:** 4 ảnh/65 box do quy trình hỗ trợ tạo, không phải người học tự gán tay. Chưa xem dự đoán detector trước khi khóa bản này, nhưng vẫn không đạt yêu cầu Gold không AI trong RULES.md. Giữ tên `gold_manual.json` để tương thích script, không dùng tên file làm bằng chứng gán tay. Số đo dựa trên bộ reference này chỉ mang tính thực nghiệm; không kết luận hiệu quả gán tay của người học.
 - Máy / GPU / CVAT dùng; vướng mắc cài đặt: <<>>
 - Dùng cache `data/cache/` thay vì tự chạy? <<không / có, vì ...>>
 - Lỗi script: `check_submission.py` chỉ nhận MSHV toàn số, nên báo sai tiêu đề README với mã `2A202603149`. Đã mở rộng phần nhận MSHV sang chữ/số; giữ nguyên kiểm tra tiêu đề, đối chiếu mã tạo bẫy và mọi ngưỡng QC. Kiểm lại với mã số thuần, mã chữ/số và tiêu đề thiếu tên.
