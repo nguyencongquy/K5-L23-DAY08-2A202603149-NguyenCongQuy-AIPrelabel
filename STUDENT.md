@@ -6,8 +6,8 @@
 - Tài khoản GitHub: nguyencongquy
 - Repo bài nộp (URL): https://github.com/nguyencongquy/K5-L23-DAY08-2A202603149-NguyenCongQuy-AIPrelabel
 - Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Máy: macOS Apple Silicon, Apple MPS
+- CVAT (Docker): 2.74.1
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
