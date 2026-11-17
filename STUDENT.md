@@ -5,7 +5,7 @@
 - Lớp: L2
 - Tài khoản GitHub: nguyencongquy
 - Repo bài nộp: https://github.com/nguyencongquy/K5-L23-DAY08-2A202603149-NguyenCongQuy-AIPrelabel
-- Commit chốt nội dung: xem commit sản phẩm được ghi khi hoàn tất handoff; bản hiện hành trên main.
+- Commit chốt nội dung: `69840a3dc4a54f2d47f07e542bdc826f8a8a9ab3` (nhãn, report, calibration và QC); commit tiếp theo chỉ hoàn thiện chỉ dẫn bàn giao.
 - Máy: macOS Apple Silicon, Apple MPS, Python 3.11.15
 - CVAT Docker: 2.74.1
 
